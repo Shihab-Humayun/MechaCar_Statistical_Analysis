@@ -54,7 +54,16 @@ The PSI for Lot 3 shows that there isn't enough information to make a conclusion
 
 ## Study Design: MechaCar vs Competition
 
+The study design will compare the MechaCar's highways fuel efficiency to the cars longevity against the competition. 
+
 - What metric or metrics are you going to test?
+The metric we will have to test is to analyze the miles per gallon for all of the cars from MechaCar and the competitors.
+
 - What is the null hypothesis or alternative hypothesis?
+The null hypothesis is that having a lower fuel efficieny rating does not affect the longevity of a car.
+
 - What statistical test would you use to test the hypothesis? And why?
+We would use a t-test to test the hypothesis to determine if the p-value has a significant value.
+
 - What data is needed to run the statistical test?
+The mpg and the vehicle_length needs a statistical test.
