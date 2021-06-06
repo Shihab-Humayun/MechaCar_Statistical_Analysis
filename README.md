@@ -32,10 +32,27 @@ According to the image below the current manufacturing data meet this design spe
 
 
 ## T-Tests on Suspension Coils
+The suspension coils PSI across all lots are very close to the PSI of the population, which is in the range of 1497.507 to 1500.053. The p-value is over 0.05 so there is not enough data to reject the test hypothesis.
 
+### PSI For All Lots
+![image](https://user-images.githubusercontent.com/49353083/120930466-54462800-c6bb-11eb-8c9a-529fac297690.png)
+
+The PSI for Lot 1 shows that there isn't enough information to make a conclusion to reject the null hypothesis. The data has a normal distribution due to the p-value being greater than 0.05. 
+
+### PSI For Lot 1
+![image](https://user-images.githubusercontent.com/49353083/120930780-be130180-c6bc-11eb-92d0-a91a6d605be0.png)
+
+The PSI for Lot 2 shows that there isn't enough information to make a conclusion to reject the null hypothesis. The data has a normal distribution due to the p-value being greater than 0.05. 
+
+### PSI For Lot 2
+![image](https://user-images.githubusercontent.com/49353083/120930919-59a47200-c6bd-11eb-9d27-d5d53eaa6fc4.png)
+
+The PSI for Lot 3 shows that there isn't enough information to make a conclusion to reject the null hypothesis. The data has a skewed distribution due to the p-value being less than 0.05. 
+
+### PSI For Lot 3
+![image](https://user-images.githubusercontent.com/49353083/120930938-7345b980-c6bd-11eb-9db2-649209f99ffd.png)
 
 ## Study Design: MechaCar vs Competition
-
 
 - What metric or metrics are you going to test?
 - What is the null hypothesis or alternative hypothesis?
